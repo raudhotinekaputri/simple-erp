@@ -1,0 +1,7 @@
+
+# local secret config
+backend-springboot/src/main/resources/application-local.properties
+backend-springboot/.env
+.env
+.env.local
+frontend-nextjs/.env*
